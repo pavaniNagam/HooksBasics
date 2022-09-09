@@ -1,10 +1,10 @@
 import logo from "./logo.svg";
-import Counter from './components/Counter'
+import UseEffectFetchData from './components/UseEffectFetchData'
 
 function App() {
   return (
     <div className="container">
-      <Counter/>
+      <UseEffectFetchData/>
     </div>
   );
 }
