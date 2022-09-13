@@ -1,10 +1,10 @@
 import logo from "./logo.svg";
-import UseEffectFetchData from './components/UseEffectFetchData'
+import ToursContainer from './components/Tours/ToursContainer'
 
 function App() {
   return (
     <div className="container">
-      <UseEffectFetchData/>
+      <ToursContainer/>
     </div>
   );
 }
